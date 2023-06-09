@@ -1,0 +1,164 @@
+﻿.body {
+    width: 500px;
+    text-align:center;
+    margin: auto;
+}
+
+.defHeader{
+    width: 500px;
+    height: 100px;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.defContent {
+    width: 500px;
+    height: 400px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.defFooter {
+    clear: both;
+    width: 500px;
+    height: 20px;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+    text-align: center;
+    margin:auto;
+}
+
+.menu {
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    width: 1000px;
+    height: 830px;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.footer {
+    width: 1000px;
+    height: 20px;
+    background-color: darkgray;
+    text-align: center;
+    margin: auto;
+}
+
+.tableFormat {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#userTable {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 15px;
+}
+
+.accountContent {
+    width: 500px;
+    height: 400px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#userInfoGV {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.searchContent {
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchContentGV {
+    overflow: scroll;
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sendRequest {
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.activityContent {
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.activityContentGV {
+    overflow: scroll;
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adminTable {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 15px;
+}
+
+.adminContentGV {
+    overflow: scroll;
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adminContent {
+    height: 300px;
+    width: 775px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
